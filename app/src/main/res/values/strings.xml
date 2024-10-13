@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Product Administrator ktor</string>
+    <string name="productos">Productos</string>
+    <string name="disponible">Disponible</string>
+    <string name="no_disponible">No Disponible</string>
+    <string name="producto_creado">Producto creado</string>
+    <string name="failed_to_create_product">Failed to create Product</string>
+    <string name="not_found">Not Found</string>
+    <string name="producto_actualizado">Producto Actualizado</string>
+    <string name="error_al_actualizar_producto">Error al actualizar producto</string>
+    <string name="producto_eliminado">Producto eliminado</string>
+    <string name="error_al_eliminar_producto">Error al eliminar producto</string>
+    <string name="disponibilidad_actualizada">Disponibilidad actualizada</string>
+    <string name="error_al_actualizar_disponibilidad">Error al actualizar disponibilidad</string>
+</resources>
