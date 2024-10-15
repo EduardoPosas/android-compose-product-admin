@@ -33,6 +33,7 @@ import com.example.productadministratorktor.ProgressIndicator
 import com.example.productadministratorktor.TopAppBar
 import com.example.productadministratorktor.presentation.composables.FormTextField
 import com.example.productadministratorktor.presentation.createProduct.ValidationErrorsUiState
+import kotlinx.coroutines.isActive
 
 @Composable
 fun UpdateProductScreen(
