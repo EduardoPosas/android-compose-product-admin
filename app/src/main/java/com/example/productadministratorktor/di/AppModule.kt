@@ -24,7 +24,7 @@ object AppModule {
         engine { }
         // default request config
         defaultRequest {
-            host = "192.168.1.69"
+            host = ""
             port = 8000
             url {
                 protocol = URLProtocol.HTTP
